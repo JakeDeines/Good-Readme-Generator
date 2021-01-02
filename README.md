@@ -24,3 +24,5 @@ To run tests, you need to run the following command: npm run test
 If you have any questions about the repo, contact JakeDeines directly Email@gmail.com.
 
 ## Deployed Image
+![good readme 1](https://user-images.githubusercontent.com/67669417/103450566-4d7b3b00-4c6d-11eb-9838-209d637cbbdb.PNG)
+![readme 2](https://user-images.githubusercontent.com/67669417/103450568-4f44fe80-4c6d-11eb-93a7-c44572aee051.PNG)
